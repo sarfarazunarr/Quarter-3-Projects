@@ -23,3 +23,16 @@ In this task I was assigned to create all these assignments
 * Tiny Mad Libs
 
 Google Colab Link [Visit Now](https://colab.research.google.com/drive/1frudMbIvlZLfosvmF36eJO2_Ney1yMaT?usp=sharing)
+
+
+## List
+* Add Many Number
+* Double List
+* Flowing with data structur
+* Get First Element
+* Get Last Element
+* Get List
+* Shorten
+
+Google Colab Link [Visit Now](https://colab.research.google.com/drive/10a6FDnEdGoVJkXXXSfvy45SNh-hyU-UF?usp=sharing)
+
