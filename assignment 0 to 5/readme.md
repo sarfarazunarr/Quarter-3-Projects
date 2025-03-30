@@ -36,3 +36,23 @@ Google Colab Link [Visit Now](https://colab.research.google.com/drive/1frudMbIvl
 
 Google Colab Link [Visit Now](https://colab.research.google.com/drive/10a6FDnEdGoVJkXXXSfvy45SNh-hyU-UF?usp=sharing)
 
+
+## If Else Statement
+* Print Evens
+* International Voting Age
+* Leap Year
+* Tall Enough to Ride
+* Random Numbers
+
+Google Colab Link [Visit Now](https://colab.research.google.com/drive/14NHhOzed3wOSb0-leWSUtJ8OHBxZUV1W?usp=sharing)
+
+
+## Dictionary
+* Count Numbers
+* Phone Book
+* Popup Shops
+* Powerful Passwords
+
+Google Colab Link [Visit Now](https://colab.research.google.com/drive/1SrN7aVvL18FcW1kQxHO0adj_x8mYe86Q?usp=sharing)
+
+
