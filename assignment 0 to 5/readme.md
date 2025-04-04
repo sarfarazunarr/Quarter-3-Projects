@@ -55,4 +55,14 @@ Google Colab Link [Visit Now](https://colab.research.google.com/drive/14NHhOzed3
 
 Google Colab Link [Visit Now](https://colab.research.google.com/drive/1SrN7aVvL18FcW1kQxHO0adj_x8mYe86Q?usp=sharing)
 
+## Loop Control Flow
+* Guess My Number
+* Fibonacci
+* Print Evens
+* Wholesome Machine
+* Lift Off
+* Double It
+
+Google Colab Link [Visit Now](https://colab.research.google.com/drive/19SiUKpyXLd0ffc3RK8wAU_7Tp00UWjUF?usp=sharing)
+
 
