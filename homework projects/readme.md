@@ -65,4 +65,18 @@ Google Colab Link [Visit Now](https://colab.research.google.com/drive/1SrN7aVvL1
 
 Google Colab Link [Visit Now](https://colab.research.google.com/drive/19SiUKpyXLd0ffc3RK8wAU_7Tp00UWjUF?usp=sharing)
 
+## Functions
+* Averages
+* Chaotic Counting
+* Count Even
+* Double
+* Get Name
+* is Odd
+* print divisor
+* print multiple
+* sentence generator
+* print ones
+
+Google Colab Link [Visit Now](https://colab.research.google.com/drive/1Bjg1vsz93DsXlaNYq6U9LliAWYlZGTdB?usp=sharing)
+
 
