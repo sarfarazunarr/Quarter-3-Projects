@@ -80,3 +80,14 @@ Google Colab Link [Visit Now](https://colab.research.google.com/drive/19SiUKpyXL
 Google Colab Link [Visit Now](https://colab.research.google.com/drive/1Bjg1vsz93DsXlaNYq6U9LliAWYlZGTdB?usp=sharing)
 
 
+## Information Flow
+* Choosing Returns
+* Greetings
+* In Range
+* In Stock
+* Multiple Returns
+* Subtract 7
+
+Google Colab Link [Visit Now](https://colab.research.google.com/drive/1twDTzxBYzGy8Ro4DGqx-A7DDvnLqr3B4?usp=sharing)
+
+
